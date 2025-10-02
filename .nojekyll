@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romantic Pavlik</title>
+</head>
+<body>
+    <h2>David Pavlik</h2>
+    <p>Náš David má 21 rokov. Fešák hneď na pohľad. Má vyštudovanú strednú školu.</p>
+    <p> Prečo to je práve tá osoba s ktorou prežijete zvyšok svojho života štastne?</p>
+    <ul>
+        <li>Má pekný dom</li>
+        <li>Rád upratuje</li>
+        <li>Má dobrú prácu</li>
+        <li>Vie trafiť kobilku s airsoftkou</li>
+    </ul>
+
+    <dl>
+        <dt>Veci čo ho potešia</dt>
+        <dd>Žuvací tabak značky Siberia</dd>
+        <dd>Stratené kľúče</dd>
+        <dd>Nové dvere</dd>
+    </dl>
+   <head>
+    <!-- ...existing code... -->
+    <style>
+        .small-img {
+            width: 200px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- ...existing code... -->
+    <img src="david-pavlik.jpg" alt="David pavlik" class="small-img">
+    <!-- ...existing code... -->
+     <p>David Pavlik – muž, ktorého nezastaví ani stratený zväzok kľúčov
+
+David má 21 rokov a život pred sebou – aj keď ten už si čiastočne naplánoval medzi airsoftovými prestrelkami a upratovaním, ktoré ho (z nepochopiteľných dôvodov) skutočne baví. Vyštudoval strednú školu a odvtedy sa pohybuje svetom s istotou človeka, ktorý vie, že má čo ponúknuť – dobrú prácu, vlastný dom a schopnosť nájsť humor aj v tom, keď sa mu stratia dvere. Nie kľúče. Dvere.
+
+Je to typ človeka, ktorého si nezamilujete pre veľké slová, ale pre malé skutky – napríklad keď vám urobí poriadok v kuchyni len tak, alebo keď si radostne otvorí novú krabičku Siberie s výrazom, akoby práve vyhral v lotérii. A ak sa pýtate, či vás vie rozosmiať – stačí sa ho opýtať, ako zistil, že airsoftkou vie trafiť kobylku. Príbeh na dlhé zimné večery.
+
+David je jednoducho ten typ človeka, ktorý síce nevyhrá Nobelovku, ale vyhrá si vás. A to je viac.</p>
+</body>
+</html>
